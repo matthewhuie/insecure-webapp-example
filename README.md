@@ -2,6 +2,8 @@
 
 A minimal web application demonstrating common security vulnerabilities regarding credential handling and unencrypted transmission for testing purposes.
 
+<p align="center"><img src="screenshot.png" width="60%" /></p>
+
 ---
 
 ## Overview
